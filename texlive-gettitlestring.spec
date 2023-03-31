@@ -1,6 +1,6 @@
 Name:		texlive-gettitlestring
 Version:	53170
-Release:	1
+Release:	2
 Summary:	Clean up title references
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gettitlestring
