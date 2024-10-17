@@ -3,7 +3,7 @@ Version:	53170
 Release:	2
 Summary:	Clean up title references
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gettitlestring
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/gettitlestring
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gettitlestring.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gettitlestring.doc.r%{version}.tar.xz
